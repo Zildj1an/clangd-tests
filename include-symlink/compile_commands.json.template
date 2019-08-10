@@ -1,0 +1,12 @@
+[
+  {
+    "directory": "CWD/",
+    "command": "clang-tool -x c++ -std=c++17 -Idebug CWD/src/main.cc",
+    "file": "CWD/src/main.cc"
+  },
+  {
+    "directory": "CWD/",
+    "command": "clang-tool -x c++ -std=c++17 -Idebug CWD/src/test.cc",
+    "file": "CWD/src/test.cc"
+  }
+]

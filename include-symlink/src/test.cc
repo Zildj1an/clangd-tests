@@ -1,0 +1,6 @@
+namespace
+{
+  void Test()
+  {
+  }
+}
