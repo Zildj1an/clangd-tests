@@ -8,5 +8,10 @@
     "directory": "CWD/",
     "command": "clang-tool -x c++ -std=c++17 -Idebug CWD/src/test.cc",
     "file": "CWD/src/test.cc"
+  },
+  {
+    "directory": "CWD/",
+    "command": "clang-tool -x c++ -std=c++17 -Irelease CWD/src/test-nosymlink.cc",
+    "file": "CWD/src/test-nosymlink.cc"
   }
 ]
